@@ -7,8 +7,18 @@
 
 - What I Listen To When Coding: [Relaxing](https://youtu.be/ft-j9VL84TQ), [Inspirational](https://youtu.be/nL8hVXSDmNM), [Energetic](https://youtu.be/BPs0kpB0tuY), [80's](https://youtu.be/lpvT-Fciu-4), [Focus](https://youtu.be/czTksCF6X8Y), [Chill](https://youtu.be/0oxt-WtC6Oc), [Feel Good](https://youtu.be/Z0NlmumRuVE), [Indie](https://youtu.be/dQw4w9WgXcQ)
 
+[![NJA's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawaljahmed&show_icons=true&theme=radical&custom_title=Stats&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawaljahmed&count&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![NJA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nawaljahmed)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **NawalJAhmed/NawalJAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+&hide=commits
 
 Here are some ideas to get you started:
 
