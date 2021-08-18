@@ -10,7 +10,7 @@
 
 <b>What I like:</b> Coding & Raimi's Spider-man memes.
 <br>
-<b>What I Listen To When Coding:</b> [Relaxing](https://youtu.be/ft-j9VL84TQ), [Inspirational](https://youtu.be/nL8hVXSDmNM), [80's](https://youtu.be/lpvT-Fciu-4), [Focus](https://youtu.be/czTksCF6X8Y), [Energetic](https://youtu.be/BPs0kpB0tuY), [Chill](https://youtu.be/0oxt-WtC6Oc), [Feel Good](https://youtu.be/Z0NlmumRuVE), [Indie](https://youtu.be/dQw4w9WgXcQ).
+<b>What I Listen To When Coding:</b> [Relaxing](https://youtu.be/ft-j9VL84TQ), [Inspirational](https://youtu.be/nL8hVXSDmNM), [Focus](https://youtu.be/czTksCF6X8Y), [80's](https://youtu.be/lpvT-Fciu-4), [Energetic](https://youtu.be/BPs0kpB0tuY), [Chill](https://youtu.be/0oxt-WtC6Oc), [Feel Good](https://youtu.be/Z0NlmumRuVE), [Indie](https://youtu.be/dQw4w9WgXcQ).
 
 <!-- [![NJA's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawaljahmed&show_icons=true&theme=radical&custom_title=Stats&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
