@@ -17,7 +17,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <p align="center"> <!-- Interests -->
   <b>What I Like</b><br>
-  <a>Coding & Raimi's Spider-man memes.</a>
+  <a>Coding & Raimi's Spider-Man memes.</a>
 </p>
 
 <p align="center"> <!-- Music Selection -->
