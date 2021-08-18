@@ -3,8 +3,8 @@
 ![dogear](https://user-images.githubusercontent.com/11577850/129963977-5b020500-5530-462c-a3d8-9dd3eab36642.gif)
 
 - What I like:
-  - Coding
-  - Raimi's Spider-man memes
+  - 💻 Coding
+  - 🖼️ Raimi's Spider-man memes
 
 - What I Listen To When Coding:
   - [Relaxing](https://youtu.be/ft-j9VL84TQ)
