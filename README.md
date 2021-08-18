@@ -1,24 +1,34 @@
 ### Welcome, I've been expecting you. 👋
-![](./image.svg)
+<!-- ![](./image.svg) -->
 
-![dogear](https://user-images.githubusercontent.com/11577850/129963977-5b020500-5530-462c-a3d8-9dd3eab36642.gif)
+<a> <!-- Dog Ear Left & Right  -->
+  <img align="left" src="https://user-images.githubusercontent.com/11577850/129963977-5b020500-5530-462c-a3d8-9dd3eab36642.gif" />
+</a>
+<a> <!-- Dog Ear Both-->
+  <img align="right" src="https://user-images.githubusercontent.com/11577850/129978921-8664ab69-9b7c-499c-96a7-7cf3578f5a68.gif" />
+</a>
 
-- What I like: 💻 Coding & 🖼️ Raimi's Spider-man memes
+<b>What I like:</b> Coding & Raimi's Spider-man memes.
 
-- What I Listen To When Coding: [Relaxing](https://youtu.be/ft-j9VL84TQ), [Inspirational](https://youtu.be/nL8hVXSDmNM), [Energetic](https://youtu.be/BPs0kpB0tuY), [80's](https://youtu.be/lpvT-Fciu-4), [Focus](https://youtu.be/czTksCF6X8Y), [Chill](https://youtu.be/0oxt-WtC6Oc), [Feel Good](https://youtu.be/Z0NlmumRuVE), [Indie](https://youtu.be/dQw4w9WgXcQ)
+<b>What I Listen To When Coding:</b> [Relaxing](https://youtu.be/ft-j9VL84TQ), [Inspirational](https://youtu.be/nL8hVXSDmNM), [Energetic](https://youtu.be/BPs0kpB0tuY), [80's](https://youtu.be/lpvT-Fciu-4), [Focus](https://youtu.be/czTksCF6X8Y), [Chill](https://youtu.be/0oxt-WtC6Oc), [Feel Good](https://youtu.be/Z0NlmumRuVE), [Indie](https://youtu.be/dQw4w9WgXcQ).
 
 [![NJA's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawaljahmed&show_icons=true&theme=radical&custom_title=Stats&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawaljahmed&count&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"> <!-- Top Languages  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaljahmed&count&layout=compact&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats"> <!-- NJA's wakatime stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=NawalJAhmed&layout=compact&theme=radical" />
+</a>
 
-[![NJA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nawaljahmed)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![NJA's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawaljahmed&show_icons=true&theme=radical&custom_title=Stats&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawaljahmed&count&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<!-- [![NJA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NawalJAhmed&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **NawalJAhmed/NawalJAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-&hide=commits
 
 Here are some ideas to get you started:
 
