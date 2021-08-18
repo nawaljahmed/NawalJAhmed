@@ -16,9 +16,10 @@ https://github.com/WaylonWalker/WaylonWalker
 <br>
 <b>What I Listen To When Coding:</b> [Relaxing](https://youtu.be/ft-j9VL84TQ), [Inspirational](https://youtu.be/nL8hVXSDmNM), [Energetic](https://youtu.be/BPs0kpB0tuY), [Focus](https://youtu.be/czTksCF6X8Y), [80's](https://youtu.be/lpvT-Fciu-4), [Chill](https://youtu.be/0oxt-WtC6Oc), [Feel Good](https://youtu.be/Z0NlmumRuVE), [Indie](https://youtu.be/dQw4w9WgXcQ).
 
-![Visitor Count](https://profile-counter.glitch.me/{NawalJAhmed}/count.svg)
+<p align="center"> <!-- Visitor Count -->
+  <img align="center" src="https://profile-counter.glitch.me/{NawalJAhmed}/count.svg" />
+</p>
 
-[![Visits Badge](https://badges.pufler.dev/visits/NawalJAhmed/git-badges)](https://github.com/NawalJAhmed/NawalJAhmed)
 
 <!-- [![NJA's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawaljahmed&show_icons=true&theme=radical&custom_title=Stats&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
