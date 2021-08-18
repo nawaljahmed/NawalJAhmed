@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![dogear](https://user-images.githubusercontent.com/11577850/129963977-5b020500-5530-462c-a3d8-9dd3eab36642.gif)
+
+
 <!--
 **NawalJAhmed/NawalJAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
