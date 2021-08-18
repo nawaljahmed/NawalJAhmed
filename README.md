@@ -12,15 +12,6 @@
 
 <b>What I Listen To When Coding:</b> [Relaxing](https://youtu.be/ft-j9VL84TQ), [Inspirational](https://youtu.be/nL8hVXSDmNM), [Energetic](https://youtu.be/BPs0kpB0tuY), [80's](https://youtu.be/lpvT-Fciu-4), [Focus](https://youtu.be/czTksCF6X8Y), [Chill](https://youtu.be/0oxt-WtC6Oc), [Feel Good](https://youtu.be/Z0NlmumRuVE), [Indie](https://youtu.be/dQw4w9WgXcQ).
 
-[![NJA's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawaljahmed&show_icons=true&theme=radical&custom_title=Stats&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats"> <!-- Top Languages  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaljahmed&count&layout=compact&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats"> <!-- NJA's wakatime stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=NawalJAhmed&layout=compact&theme=radical" />
-</a>
-
 <!-- [![NJA's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawaljahmed&show_icons=true&theme=radical&custom_title=Stats&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawaljahmed&count&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
