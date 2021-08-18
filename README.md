@@ -2,10 +2,10 @@
 <!-- ![](./image.svg) -->
 
 <a> <!-- Dog Ear Left & Right  -->
-  <img align="left" src="https://user-images.githubusercontent.com/11577850/129963977-5b020500-5530-462c-a3d8-9dd3eab36642.gif" width="200" height="200" />
+  <img align="left" src="https://user-images.githubusercontent.com/11577850/129963977-5b020500-5530-462c-a3d8-9dd3eab36642.gif" width="150" height="150" />
 </a>
 <a> <!-- Dog Ear Both-->
-  <img align="right" src="https://user-images.githubusercontent.com/11577850/129978921-8664ab69-9b7c-499c-96a7-7cf3578f5a68.gif" width="200" height="200" />
+  <img align="right" src="https://user-images.githubusercontent.com/11577850/129978921-8664ab69-9b7c-499c-96a7-7cf3578f5a68.gif" width="150" height="150" />
 </a>
 
 <b>What I like:</b> Coding & Raimi's Spider-man memes.
