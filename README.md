@@ -33,7 +33,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 <p align="center"> <!-- Visitor Count -->
-  <b>Visits</b><br>
+  <b>Visits (99% are me)</b><br>
   <img src="https://profile-counter.glitch.me/{NawalJAhmed}/count.svg">
 </p>
 
