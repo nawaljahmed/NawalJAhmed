@@ -12,14 +12,22 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 <a> <!-- Dog Ear Left & Right  -->
   <img align="left" src="https://user-images.githubusercontent.com/11577850/129963977-5b020500-5530-462c-a3d8-9dd3eab36642.gif" width="150" height="150" />
 </a>
+
 <a> <!-- Dog Ear Both-->
   <img align="right" src="https://user-images.githubusercontent.com/11577850/129978921-8664ab69-9b7c-499c-96a7-7cf3578f5a68.gif" width="150" height="150" />
 </a>
 
-<p align="center"> <!-- Interests -->
-  <b>What I Like</b><br>
-  <a>Coding & Raimi's Spider-Man memes.</a>
-</p>
+```diff
+Likes:
++ Coding
++ Linux
++ Sam Rami's Spider-Man memes
+```
+
+```diff
+Dislikes:
+- Memes that aren't from Sam Rami's Spider-Man
+```
 
 <p align="center"> <!-- Music Selection -->
   <b>What I Listen To When Coding</b><br>
@@ -37,6 +45,16 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
   <b>Visits (99% are me)</b><br>
   <img src="https://profile-counter.glitch.me/{NawalJAhmed}/count.svg">
 </p>
+
+<!--
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+-->
 
 <!--
 <b>What I like:</b> Coding & Raimi's Spider-man memes.
