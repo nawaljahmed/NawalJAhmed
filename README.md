@@ -26,6 +26,7 @@ Likes:
 
 ```diff
 Dislikes:
+- Runtime errors
 - Memes that aren't from Sam Rami's Spider-Man
 ```
 
