@@ -21,7 +21,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 Likes:
 + Coding
 + Linux
-+ Sam Rami's Spider-Man memes
++ Sam Rami's Spider-Man memes aka The Holy Trilogy
 ```
 
 ```diff
@@ -46,8 +46,6 @@ Dislikes:
   <b>Visits (99% are me)</b><br>
   <img src="https://profile-counter.glitch.me/{NawalJAhmed}/count.svg">
 </p>
-
-[![NJA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@NawalJAhmed&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ```diff
