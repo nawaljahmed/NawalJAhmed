@@ -47,12 +47,13 @@ Dislikes:
   <img src="https://profile-counter.glitch.me/{NawalJAhmed}/count.svg">
 </p>
 
-<a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=NawalJAhmed&theme=radical" />
-</a>
-<a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nawaljahmed&show_icons=true&theme=radical&custom_title=Stats&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NawalJAhmed&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nawaljahmed&show_icons=true&theme=radical&custom_title=Stats&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats" />
+</p>
 
 <!--
 ```diff
