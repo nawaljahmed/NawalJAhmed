@@ -47,6 +47,8 @@ Dislikes:
   <img src="https://profile-counter.glitch.me/{NawalJAhmed}/count.svg">
 </p>
 
+[![NJA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@NawalJAhmed&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 ```diff
 - text in red
