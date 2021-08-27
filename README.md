@@ -29,8 +29,9 @@ Dislikes:
 - Runtime errors
 - Memes that aren't from Sam Rami's Spider-Man
 ```
-
+<!---
 <p align="center"> <!-- Music Selection -->
+<!--
   <b>What I Listen To When Coding</b><br>
   <a href="https://youtu.be/ft-j9VL84TQ">Relaxing</a> |
   <a href="https://youtu.be/nL8hVXSDmNM">Inspirational</a> |
@@ -41,6 +42,7 @@ Dislikes:
   <a href="https://youtu.be/Z0NlmumRuVE">Feel Good</a> |
   <a href="https://youtu.be/dQw4w9WgXcQ">Indie</a>
 </p>
+-->
 
 <p align="center"> <!-- Regular Badges -->
   <img src="https://awesome.re/badge-flat.svg"/> <!-- Awesome Shades --> <!-- https://github.com/sindresorhus/awesome/blob/main/awesome.md -->
