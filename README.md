@@ -6,7 +6,8 @@ https://awesomegithubprofile.tech/
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 <h3 align="center"> <!-- Interests -->
-  Welcome, I've been expecting you. 👋
+  Welcome, I've been expecting you.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <!-- ![](./image.svg) -->
 </h3>
 
