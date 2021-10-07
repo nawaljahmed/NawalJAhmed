@@ -57,6 +57,27 @@ Dislikes:
   <img src="https://img.shields.io/badge/AMD-Ryzen_7_1800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> <!-- AMD CPU Badge -->
 </p>
 
+<!-- Technologies
+JavaScript
+NodeJS
+SQL
+Postman
+Postbird
+Sequelize (ORM)
+Nodemon (Node Package)
+Mocha (Node Package)
+Chai (Node Package)
+Express
+Pug
+Csurf (Node Package)
+Cookie-Parser (Node Package)
+Netlify
+Heroku
+HTML
+CSS
+Python
+React -->
+
 <!--
 ![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
