@@ -71,6 +71,7 @@ Express
 Pug
 Csurf (Node Package)
 Cookie-Parser (Node Package)
+DBDiagram.io
 Netlify
 Heroku
 HTML
