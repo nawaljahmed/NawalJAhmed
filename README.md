@@ -51,12 +51,6 @@ Dislikes:
   <img src="https://komarev.com/ghpvc/?username=nawaljahmed&color=ff69b4&style=flat-square&label=Visits"> <!-- Visitor Count -->
 </p>
 
-<p align="center"> <!-- Workstation Badges --> <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"/> <!-- Manjaro Linux Badge -->
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <!-- NVIDIA Badge -->
-  <img src="https://img.shields.io/badge/AMD-Ryzen_7_1800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> <!-- AMD CPU Badge -->
-</p>
-
 <!-- Technologies
 JavaScript
 NodeJS
