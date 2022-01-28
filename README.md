@@ -48,7 +48,7 @@ Dislikes:
 
 <p align="center"> <!-- Regular Badges -->
   <img src="https://awesome.re/badge-flat.svg"/> <!-- Awesome Shades --> <!-- https://github.com/sindresorhus/awesome/blob/main/awesome.md -->
-  <img src="https://komarev.com/ghpvc/?username=nawaljahmed&color=ff69b4&style=flat-square&label=Visits"> <!-- Visitor Count -->
+  <img src="https://komarev.com/ghpvc/?username=nawaljahmed&color=ff69b4&style=flat-square&label=Visits"> <!-- Visitor Count --> <-- 99% are me b/c I like seeing the doggos.
 </p>
 
 <!-- Technologies
