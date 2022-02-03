@@ -73,7 +73,7 @@ CSS
 Python
 React -->
 
-<!--
+
 ![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![HTML 5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -92,14 +92,8 @@ React -->
 
 ![Arch Linux Badge](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-![NVIDIA Badge](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-![AMD CPU Badge](https://img.shields.io/badge/AMD-Ryzen_7_1800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
--->
 
 <!--
 [![Visits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNawalJAhmed%2FNawalJAhmed&count_bg=%234BC51D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=true)](https://hits.seeyoufarm.com)
