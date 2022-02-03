@@ -21,16 +21,14 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```diff
 Likes:
-+ Coding
-+ Linux
-+ Sam Rami's Spider-Man memes aka The Holy Trilogy
++ Coding Advanced Applications
++ Solving Unique Problems In Creative Ways
++ Working With Others
++ Learning Anything New About Technology
+! Let's Connect & Talk!
 ```
 
-```diff
-Dislikes:
-- Runtime errors
-- Memes that aren't from Sam Rami's Spider-Man
-```
+
 <!---
 <p align="center"> <!-- Music Selection -->
 <!--
