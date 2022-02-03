@@ -24,8 +24,16 @@ Likes:
 + Coding Advanced Applications
 + Solving Unique Problems In Creative Ways
 + Working With Others
-+ Learning Anything New About Technology
++ Learning Anything New About Tech & Business
 ! Let's Connect & Talk!
+```
+
+```diff
+About Me:
+
+Took my first programming class in high school.
+Liked it so much that I decided to get a Bachelor's Degree in Computer Science.
+Decided to further my education by honing my web dev skills when I found my passion for making complex web apps!
 ```
 
 
