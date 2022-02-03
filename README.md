@@ -12,11 +12,11 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </h3>
 
 <a> <!-- Dog Ear Left & Right  -->
-<!--   <img align="left" src="https://user-images.githubusercontent.com/11577850/129963977-5b020500-5530-462c-a3d8-9dd3eab36642.gif" width="150" height="150" /> -->
+  <img align="left" src="https://user-images.githubusercontent.com/11577850/129963977-5b020500-5530-462c-a3d8-9dd3eab36642.gif" width="150" height="150" />
 </a>
 
 <a> <!-- Dog Ear Both-->
-<!--   <img align="right" src="https://user-images.githubusercontent.com/11577850/129978921-8664ab69-9b7c-499c-96a7-7cf3578f5a68.gif" width="150" height="150" /> -->
+  <img align="right" src="https://user-images.githubusercontent.com/11577850/129978921-8664ab69-9b7c-499c-96a7-7cf3578f5a68.gif" width="150" height="150" />
 </a>
 
 ```diff
@@ -126,8 +126,8 @@ React -->
 
 Let's Talk!
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![NawalJAhmed](https://img.shields.io/static/v1?label=&message=NawalJAhmed&color=%230077B5&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nawaljahmed/)
+[![GMAIL](https://img.shields.io/static/v1?label=&message=nawal.j.ahmed@gmail.com&color=D14836&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nawal.j.ahmed@gmail.com)
 ![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
   
 </div>
