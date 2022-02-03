@@ -6,17 +6,17 @@ https://awesomegithubprofile.tech/
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 <h3 align="center"> <!-- Interests -->
-  Welcome, I've been expecting you.
+  Greetings! Glad you're here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <!-- ![](./image.svg) -->
 </h3>
 
 <a> <!-- Dog Ear Left & Right  -->
-  <img align="left" src="https://user-images.githubusercontent.com/11577850/129963977-5b020500-5530-462c-a3d8-9dd3eab36642.gif" width="150" height="150" />
+<!--   <img align="left" src="https://user-images.githubusercontent.com/11577850/129963977-5b020500-5530-462c-a3d8-9dd3eab36642.gif" width="150" height="150" /> -->
 </a>
 
 <a> <!-- Dog Ear Both-->
-  <img align="right" src="https://user-images.githubusercontent.com/11577850/129978921-8664ab69-9b7c-499c-96a7-7cf3578f5a68.gif" width="150" height="150" />
+<!--   <img align="right" src="https://user-images.githubusercontent.com/11577850/129978921-8664ab69-9b7c-499c-96a7-7cf3578f5a68.gif" width="150" height="150" /> -->
 </a>
 
 ```diff
@@ -46,11 +46,6 @@ Dislikes:
 </p>
 -->
 
-<p align="center"> <!-- Regular Badges -->
-  <img src="https://awesome.re/badge-flat.svg"/> <!-- Awesome Shades --> <!-- https://github.com/sindresorhus/awesome/blob/main/awesome.md -->
-  <img src="https://komarev.com/ghpvc/?username=nawaljahmed&color=ff69b4&style=flat-square&label=Visits"> <!-- Visitor Count --> <-- 99% are me b/c I like seeing the doggos.
-</p>
-
 <!-- Technologies
 JavaScript
 NodeJS
@@ -72,27 +67,21 @@ HTML
 CSS
 Python
 React -->
-
-
+  
+<div align="center">
+  
 ![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![HTML 5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Node.JS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
 ![Mocha Badge](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
-
 ![Arch Linux Badge](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  
+</div>
 
 
 <!--
