@@ -128,7 +128,7 @@ Let's Talk!
 
 [![NawalJAhmed](https://img.shields.io/static/v1?label=&message=NawalJAhmed&color=%230077B5&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nawaljahmed/)
 [![GMAIL](https://img.shields.io/static/v1?label=&message=nawal.j.ahmed@gmail.com&color=D14836&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nawal.j.ahmed@gmail.com)
-![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
+[![Website](https://img.shields.io/badge/portfolio-bbffa1?style=for-the-badge&logo=About.me&logoColor=black)](https://www.nawal.dev/)
   
 </div>
 
