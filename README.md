@@ -5,7 +5,7 @@ https://awesomegithubprofile.tech/
 <!-- GitHub ReadMe Generator
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
-<h3 align="center"> <!-- Interests -->
+<h2 align="center"> <!-- Interests -->
   Greetings! Glad you're here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <!-- ![](./image.svg) -->
@@ -76,13 +76,15 @@ React -->
   
 <div align="center">
   
+### My Primary Techs
+  
 ![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Node.JS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%19354D.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/static/v1?label=&message=Sequelize&color=%232F406A&style=for-the-badge&logo=Sequelize&logoColor=%2303AFEF)
 ![HTML 5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -124,7 +126,7 @@ React -->
 
 <div align="center">
 
-Let's Talk!
+## Let's Talk!
 
 [![NawalJAhmed](https://img.shields.io/static/v1?label=&message=NawalJAhmed&color=%230077B5&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nawaljahmed/)
 [![GMAIL](https://img.shields.io/static/v1?label=&message=nawal.j.ahmed@gmail.com&color=D14836&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nawal.j.ahmed@gmail.com)
