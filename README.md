@@ -25,17 +25,16 @@ Likes:
 + Solving Unique Problems In Creative Ways
 + Working With Others
 + Learning Anything New About Tech & Business
-! Let's Connect & Talk!
+! To Connect & Talk!
 ```
 
 ```diff
 About Me:
 
-Took my first programming class in high school.
-Liked it so much that I decided to get a Bachelor's Degree in Computer Science.
+Took my first programming classes in high school.
+@@ Liked them so much that I decided to get my Bachelor's Degree in Computer Science. @@
 Decided to further my education by honing my web dev skills when I found my passion for making complex web apps!
 ```
-
 
 <!---
 <p align="center"> <!-- Music Selection -->
