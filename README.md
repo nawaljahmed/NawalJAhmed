@@ -32,7 +32,7 @@ Likes:
 About Me:
 
 Took my first programming classes in high school.
-@@ Liked them so much that I decided to get my Bachelor's Degree in Computer Science. @@
+Liked them so much that I decided to get my Bachelor's Degree in Computer Science.
 Decided to further my education by honing my web dev skills when I found my passion for making complex web apps!
 ```
 
